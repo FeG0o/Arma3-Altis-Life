@@ -15,9 +15,9 @@ player createDiarySubject ["controls","Steuerung"];
 
 
 player createDiaryRecord["pro",
-	["gf-gaming",
+	["Server",
 		"<br />"
-		+ "gf-gaming.de Altis Life v3.1.3 ALPHA"
+		+ "########## Altis Life v3.1.3 ALPHA"
 		+ "<br /><br />"
 		+ "Leitung:###########<br />"
 		+ "Developer und Scripter[FDHK]"
