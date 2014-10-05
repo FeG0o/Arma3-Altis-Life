@@ -5,6 +5,8 @@
 */
 
 _onScreenTime = 7;
+
+sleep 30;
  
 _role1 = "Hallo,";
 _role1names = ["Willkommen auf", "Project X Altis Life"];
